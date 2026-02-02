@@ -18,7 +18,7 @@ Nosso objetivo é ampliar vozes, criar oportunidades e fomentar um ambiente acol
 
 A **Heart Delas** faz parte do ecossistema da comunidade **[He4rt Developers](https://github.com/he4rt)** — uma comunidade colaborativa focada em aprendizado, desenvolvimento e construção coletiva no mundo da tecnologia.
 
-Enquanto a **He4rt** é a comunidade principal aberta a todas as pessoas, a **Heart Delas** nasce como uma iniciativa dedicada a fortalecer a participação feminina dentro desse ecossistema, promovendo representatividade, apoio mútuo e protagonismo.
+Enquanto a **He4rt** é a comunidade principal aberta a todas as pessoas, a **Heart Delas** é uma área da comunidade voltada para mulheres cis, trans e pessoas que se identificam com o gênero feminino, focada em criar projetos, engajar e fortalecer conexões na tech!
 
 ---
 
