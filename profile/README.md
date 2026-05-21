@@ -1,34 +1,32 @@
-# 💜 Heart Delas
+<p align="center">
+  <img src="https://raw.githubusercontent.com/He4rt-Delas/.github/52324612873b016a0f3b488a9b3e160030fb54fe/profile/logo%20heartdelas.svg" />
+</p>
 
-A **Heart Delas** é uma organização dentro do GitHub criada para fortalecer, conectar e impulsionar mulheres e pessoas que se identificam como mulheres na tecnologia.
+## Sobre o espaço
 
-Somos um espaço seguro de aprendizado, colaboração e crescimento, onde cada integrante pode:
+A **Heart Delas** faz parte do ecossistema da [He4rt Developers](https://github.com/he4rt) — uma comunidade aberta a todas as pessoas na tech. Nós somos uma área dedicada a mulheres cis, trans e pessoas que se identificam com o gênero feminino.
 
-- 🚀 Contribuir com projetos open source  
-- 📚 Compartilhar conhecimento e experiências  
-- 🤝 Receber e oferecer apoio  
-- 🌱 Desenvolver habilidades técnicas e interpessoais  
-- 💬 Participar de discussões e iniciativas da comunidade  
+Nosso objetivo é proporcionar um espaço colaborativo e seguro para que mulheres possam:
 
-Nosso objetivo é ampliar vozes, criar oportunidades e fomentar um ambiente acolhedor para quem deseja evoluir na área de tecnologia, independentemente do nível de experiência.
+- 🚀 Contribuir com projetos open source
+- 📚 Compartilhar conhecimento e experiências
+- 🤝 Receber e oferecer apoio
+- 🌱 Desenvolver habilidades técnicas e interpessoais
+- 💬 Participar de discussões e iniciativas da comunidade
 
+Incentivamos que nossas integrantes se sintam:
+
+- Seguras para aprender e errar
+- Confiantes para compartilhar
+- Encorajadas a liderar
+- Inspiradas a crescer
+
+> Independente do nível de experiência. **Porque juntas, somos mais fortes!** 💜
 ---
 
-## 🌐 Conexão com a comunidade principal
+## 📲 Faça parte
 
-A **Heart Delas** faz parte do ecossistema da comunidade **[He4rt Developers](https://github.com/he4rt)** — uma comunidade colaborativa focada em aprendizado, desenvolvimento e construção coletiva no mundo da tecnologia.
+Quer entrar na nossa comunidade?
 
-Enquanto a **He4rt** é a comunidade principal aberta a todas as pessoas, a **Heart Delas** é uma área da comunidade voltada para mulheres cis, trans e pessoas que se identificam com o gênero feminino, focada em criar projetos, engajar e fortalecer conexões na tech!
-
----
-
-## ✨ Nossa missão
-
-Criar um ambiente onde mulheres na tecnologia se sintam:
-
-- Seguras para aprender  
-- Confiantes para compartilhar  
-- Encorajadas a liderar  
-- Inspiradas a crescer  
-
-Porque juntas, somos mais fortes. 💜
+- 💬 [Entre no nosso grupo do WhatsApp](https://chat.whatsapp.com/Cn5bXXhSpBdKZ1RSJo1nQz)
+- 🎮 [Acesse o Discord da He4rt](https://discord.gg/he4rt)
